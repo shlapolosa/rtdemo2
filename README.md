@@ -1,2 +1,3 @@
 # rtdemo2
-OAM-driven via app.submit (rtdemo2)
+
+CLAUDE.md-compliant microservice application container.
