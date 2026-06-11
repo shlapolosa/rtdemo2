@@ -25,3 +25,4 @@ spec:
 
 - (Services will be listed here as they are added)
 - rtdemo2-processor (python/fastapi)
+- rtdemo2-ingest (python/fastapi)
