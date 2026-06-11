@@ -24,6 +24,3 @@ spec:
 ## Current Services
 
 - (Services will be listed here as they are added)
-- rtdemo2-processor (python/fastapi)
-- rtdemo2-ingest (python/fastapi)
-- rtdemo2-gateway (python/fastapi)
